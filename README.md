@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# 💳Credit Card Fraud Detection
 
 This project detects fraudulent credit card transactions using three machine learning models: Linear SVM, Logistic Regression, and a Neural Network. The dataset is from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and contains 284,807 transactions, of which 492 are fraudulent.
 
