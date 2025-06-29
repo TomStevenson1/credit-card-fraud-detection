@@ -1,0 +1,20 @@
+{
+  "model_name": "sgd",
+  "accuracy": 0.9378006390225062,
+  "roc_auc": 0.9552279409231335,
+  "pr_auc": 0.7343298653882302,
+  "precision": 0.02482758620689655,
+  "recall": 0.9183673469387755,
+  "f1_score": 0.04834810636583401,
+  "confusion_matrix": [
+    [
+      53329,
+      3535
+    ],
+    [
+      8,
+      90
+    ]
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\n           0       1.00      0.94      0.97     56864\n           1       0.02      0.92      0.05        98\n\n    accuracy                           0.94     56962\n   macro avg       0.51      0.93      0.51     56962\nweighted avg       1.00      0.94      0.97     56962\n"
+}
